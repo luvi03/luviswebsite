@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,600;1,100&display=swap" rel="stylesheet">
+<style>
+body{font-family: 'Raleway', sans-serif;}
+ul{padding: 0; list-stlye-type: none; display: flex;}
+ul a{padding:10px;}
+h1 {color:brown;}
+h2 {color:pink;}
+ul{background-color: gray; list-style-type: none; padding: 0; display: flex;}
+ul a{padding: 10px}
+</style>
+</head>
+<body>
+<nav>
+
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="letter-to-my-future-self.html">Letter To My Future Self</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<img src="https://images.unsplash.com/photo-1518481612222-68bbe828ecd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width=100%>
+
+<iframe width="260" height="215" src="https://www.youtube.com/embed/cd2YHFncn3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<header>
+	<h5>Press Play!</h5>
+    <h1>Welcome To Luvi's Website</h1>
+	<h2>About Me</h2>
+	
+</header> 
+
+<main>
+<p>My name is Luvi Castanon and I'm from the South Bronx. I'm the first in my family to graduate high school and go off to college. I grew up with a semi-musical background and was encourage to try out many different things. As a result, my intrests are basically everywhere. I have a huge passion for the arts, and I'm also an outdoors person. If someone ever needs a person to go out and try new things with, I volunteer to be that person!</p>
+<h2>Favorite Foods</h2>
+<ol>
+<li>Mexican Food</li>
+<li>Sushi</li>
+<li>Bubble Tea</li>
+</ol>
+<img src= "https://i.imgur.com/6xrqnay.jpg" width=100%>
+<h2> Letter To Self</h2>
+<p>Dear Self,
+although this whole coding thing is new, I can see that you are slowly enjoying it. In a way it reminds us of a puzzle of some sort. I know that you love learning new things, and now that you are presented with something you never came across before, you are hooked. See this as an opportunity to gain knowledge that not many people don't have access too. You have a greater chance at getting chosen for a job opportunity or just even networking opportunity. Especially now that we are heading towards a digital world, this can come in handy. Keep up the good work!
+Later, Luvi. <p>
+</main>
+
+<footer>
+<strong>Contact Me Through</strong>-->
+<u>Email: luvi.castanontapia@bsswa.org / Phone: (###)###-####</u>
+</footer>
+</body>
+</html>
